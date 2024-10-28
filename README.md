@@ -1,1 +1,6 @@
-Link to the M0 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M0)](#M0)
+Link to the Milestone 0 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M0)]
+Link to the Milestone 1 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M1)]
+Link to the Milestone 2 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M2)]
+Link to the Milestone 3 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M3)]
+Link to the Milestone 4 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M4)]
+Link to the Milestone 5 section: [(https://github.com/AnnaBielecka/Milestone-6/tree/Master/M5)]
